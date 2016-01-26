@@ -1,0 +1,28 @@
+﻿Build started 4/30/2015 11:32:43 AM.
+     1>Project "Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\OutpourDataLogger\OutpourDataLogger.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OutpourDataLogger.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D STATIC_LIBRARY /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source\dataLogger_exec.cpp
+         dataLogger_exec.cpp
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\opLogger.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.lib" /MACHINE:X86 Debug\crc8.obj
+         Debug\dataLogger_comm.obj
+         Debug\dataLogger_exec.obj
+         Debug\dataLogger_timer.obj
+         Debug\getopt.obj
+         Debug\main.obj
+         Debug\wsc32.obj
+         LINK : Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.exe not found or not built by the last incremental link; performing full link
+         OutpourDataLogger.vcxproj -> Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\Debug\opLogger.exe;#1" /manifest Debug\opLogger.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\OutpourDataLogger.unsuccessfulbuild".
+         Touching "Debug\OutpourDataLogger.lastbuildstate".
+     1>Done Building Project "Y:\D2MAC_DATA\mi\PCH\Outpour\Software\outpourDataLogger\OutpourDataLogger\OutpourDataLogger.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.06

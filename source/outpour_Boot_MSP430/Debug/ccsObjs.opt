@@ -1,0 +1,1 @@
+"./src/utils.obj" "./src/time.obj" "./src/msgOta.obj" "./src/modemMgr.obj" "./src/modemLink.obj" "./src/modemCmd.obj" "./src/main.obj" "./src/hal.obj" "./src/flash.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 

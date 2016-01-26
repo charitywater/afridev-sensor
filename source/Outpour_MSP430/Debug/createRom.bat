@@ -1,0 +1,1 @@
+C:\ti\ccsv5\tools\compiler\msp430_4.2.1\bin\hex430.exe outpour_app_to_rom.cmd
