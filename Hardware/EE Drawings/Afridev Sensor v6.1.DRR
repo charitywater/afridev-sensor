@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Outpour v6.1.PcbDoc   1/2/2015  1:03:18 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Outpour v6.1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3302mm (13mil)         Round          379              1689.54 mm (66.52 Inch)
+T2        0.7112mm (28mil)         Round          5                7.51 mm (0.30 Inch)
+T3        1mm (39.37mil)           Round          2                4.50 mm (0.18 Inch)
+T4        1.0668mm (42mil)         Round          2                2.54 mm (0.10 Inch)
+T5        1.1938mm (47mil)         Round          2                15.24 mm (0.60 Inch)
+T6        1.3mm (51.181mil)        Round          2                7.00 mm (0.28 Inch)
+T7        3.175mm (125mil)         Round          2         NPTH   136.00 mm (5.35 Inch)
+---------------------------------------------------------------------------
+Totals                                            394              1862.33 mm (73.32 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
